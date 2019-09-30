@@ -45,6 +45,13 @@ body {
   justify-content: space-between;
 }
 
+.Message {
+  color: #677075;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
 @keyframes fade {
   from {
     opacity: 0;

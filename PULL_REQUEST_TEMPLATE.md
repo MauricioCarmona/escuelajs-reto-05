@@ -2,15 +2,15 @@
 
 Solución al reto 05 de Escuela de JavaScript
 
-Nombre:
-Usuario Platzi:
+Nombre: Mauricio Iván Martínez Carmona
+Usuario Platzi: @MauricioCarmona
 
 ## Ciudad
-- [ ] Ciudad de México
+- [x] Ciudad de México
 - [ ] Bogotá
 
 ## Reto:
-  - [ ] Primer problema
-  - [ ] Segundo problema
-  - [ ] Tercer problema
-  - [ ] Cuarto Problema (Opcional)
+  - [] Primer problema
+  - [] Segundo problema
+  - [] Tercer problema
+  - [] Cuarto Problema (Opcional)
